@@ -1,0 +1,33 @@
+.card{
+    /* border-width: 0px; */
+    cursor: pointer;
+}
+
+/* .card img{
+    border-radius: 15px;
+}
+
+.card img:hover{
+    border-radius: 0px;
+} */
+
+.card img:not(:hover){
+    border-radius: 15px;
+}
+
+.left-menu a{
+    border-width: 0px !important;
+}
+
+.search-panel{
+    border-radius: 15px !important;
+    width: 350px;
+}
+.logo{
+    max-width: 17%;
+}
+.nav{
+
+    padding: 15px;
+
+}
